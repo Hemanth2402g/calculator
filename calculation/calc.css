@@ -1,0 +1,36 @@
+#result{
+    
+    height: 20px;
+    width: fit-content;
+    background-color: rgb(198, 151, 93);
+    border-style: groove;
+}
+#val{
+    
+    height: 20px;
+    width: fit-content;
+    background-color: rgb(198, 151, 93);
+    border-style: groove;
+}
+.box{
+    
+    width: 400px;
+    height: 400px;
+    background-color: rgb(154, 141, 227);
+    margin: auto;
+    margin-top:7%;
+    border-style: ridge;
+}
+#sub{
+    background-color: lightgreen;
+
+}
+#add{
+    background-color: indianred;
+}
+#mul{
+    background-color: grey;
+}
+#div{
+    background-color: pink;
+}
